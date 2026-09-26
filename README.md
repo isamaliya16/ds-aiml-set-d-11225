@@ -1,4 +1,4 @@
-# 📊 Campaign Response Prediction — Set D
+# 📊 Campaign Response Prediction 
 
 **Data Science & AI/ML Practical Exam** · End-to-end pipeline predicting customer response to a marketing campaign, with audience segmentation and a full model comparison (Baseline → Logistic Regression → ANN).
 
